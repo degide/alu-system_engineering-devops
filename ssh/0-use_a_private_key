@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # Define the server address
-SERVER_ADDRESS="3.85.219.218"
+SERVER_ADDRESS="184.72.126.200"
 # Use ssh to connect to the server using the private key
 ssh -i ~/.ssh/school ubuntu@$SERVER_ADDRESS
