@@ -3,8 +3,8 @@
 # Define variables
 CONFIG_FILE="$HOME/.ssh/config"
 KEY_FILE="$HOME/.ssh/school"
-SERVER_ALIAS="6225-web-01"
-SERVER_ADDRESS="3.95.170.26"
+SERVER_ALIAS="6221-web-01"
+SERVER_ADDRESS="3.85.219.218"
 
 # Create the .ssh directory if it doesn't exist
 mkdir -p $HOME/.ssh
