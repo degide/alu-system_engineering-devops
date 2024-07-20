@@ -4,7 +4,7 @@
 CONFIG_FILE="$HOME/.ssh/config"
 KEY_FILE="$HOME/.ssh/school"
 SERVER_ALIAS="6225-web-01"
-SERVER_ADDRESS="172.17.255.255"
+SERVER_ADDRESS="3.95.170.26"
 
 # Create the .ssh directory if it doesn't exist
 mkdir -p $HOME/.ssh
